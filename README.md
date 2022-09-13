@@ -2,7 +2,7 @@
 ###### I am looking for a Junior position as Frontend/FullStack/web developer to expanding my knowledge.
 
  ## About me 
- 🎓 3rd year Computer Science student(B.Sc.)
+ 🎓 3rd year Computer Science student (B.Sc.)
  <br>
  💻 Member at programmers club- "Dev Club"
  <br>
