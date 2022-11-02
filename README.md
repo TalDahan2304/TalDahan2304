@@ -1,5 +1,5 @@
 # Hi there, I’m Tal Dahan 👋 
-###### I am looking for a Junior position as Frontend/FullStack/web developer to expanding my knowledge.
+###### I am looking for a Junior position as Frontend/FullStack/Web developer to expanding my knowledge.
 
  ## About me 
  🎓 B.Sc. in Computer Science 
